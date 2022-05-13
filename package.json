@@ -73,7 +73,7 @@
     "@storybook/addon-storysource": "6.4.22",
     "@storybook/builder-vite": "0.1.33",
     "@storybook/react": "6.4.22",
-    "@types/react": "17.0.45",
+    "@types/react": "18.0.9",
     "@types/react-dom": "17.0.17",
     "@typescript-eslint/eslint-plugin": "5.23.0",
     "@typescript-eslint/parser": "5.23.0",
